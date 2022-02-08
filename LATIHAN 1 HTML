@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>WEB DESAIN</title>
+	<link rel="stylesheet" type="text/css" href="LATIHAN 1 CSS">
+
+</head>
+<body>
+<div class="kontainer">
+	<div class="header">
+		<h1 class="judul">My Website</h1>
+		<ul>
+			<li><a href="#">home</a></li>
+			<li><a href="#">about</a></li>
+			<li><a href="#">contact</a></li>
+			<li><a href="#">product</a></li>
+			<li><a href="#">serive</a></li>
+		</ul>
+	</div>
+	<div class="hero"></div>
+
+
+</div>
+</body>
+</html>
